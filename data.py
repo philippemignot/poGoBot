@@ -491,7 +491,7 @@ pokedex = [
     {"fr": "manaphy",       "en": "manaphy"},
     {"fr": "darkrai",       "en": "darkrai"},
     {"fr": "shaymin",       "en": "shaymin"},
-    {"fr": "arceus",        "en": "arceus"},
+    {"fr": "arceus",        "en": "arceus"}
 ]
 
 teamdex = {
